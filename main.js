@@ -36,7 +36,7 @@ else{
         case "organise" : //call to helper;
                                 org(args[1])
                                 break;
-        case "birdView" : //call to helper;
+        case "birdview" : //call to helper;
                                 console.log("\n")
                                 tree(args[1],"             ")
                                 break;   
